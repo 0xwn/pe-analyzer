@@ -26,11 +26,7 @@ It extracts strings (ASCII and Unicode) from PE files, classifies them based on 
 - Other standard libraries: argparse, re, math, os, datetime
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your_repository_URL>
-   ```
-2. Install the main dependency:
+1. Install the main dependency:
    ```bash
    pip install pefile
    ```
